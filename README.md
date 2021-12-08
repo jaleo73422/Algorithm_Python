@@ -7,5 +7,6 @@
 ### Binomial coefficient
 
 ## Stable matching: Gale-Shapley algorithm
+## PatternSearching Knuth-Morris-Pratt (KMP) algorithm
 
 ## Common case

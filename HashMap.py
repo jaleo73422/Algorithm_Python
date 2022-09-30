@@ -24,6 +24,10 @@ print(dict_3.keys())
 print(dict_3.values())
 print(dict_3.get('Dave'))
 
+tem = 'Dave' in dict_3
+print(tem)
+print(type(tem))
+
 # Updating values
 dict_4 = {'Dave': '001', 'Ava': '002', 'Joe': '003'}
 dict_4['Dave'] = '004'   # updating the value of Dave

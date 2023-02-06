@@ -1,6 +1,7 @@
 *.vscode
 test.py
-test2.py
+test_2.py
+test_3.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -131,5 +132,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-test.py

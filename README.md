@@ -1,12 +1,15 @@
 # Algorithm_Python
 
-## To be added
-### Bitwise
-### Staircase walk (counting, optimization)
-### Binary search(common case, recursive BS)
-### Binomial coefficient
+## Tree
+- Trie
+- BIT
 
-## Stable matching: Gale-Shapley algorithm
-## PatternSearching Knuth-Morris-Pratt (KMP) algorithm
+## Graph
+- Representations
+- BFS, DFS
+- Topological Sorting (DFS, Recursive, detect cycle)
+
+## To be added
+### Trie: delete
 
 ## Common case
